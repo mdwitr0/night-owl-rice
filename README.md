@@ -13,7 +13,4 @@
 **Browser Theme**: [Cascade](https://github.com/mdwitr0/night-owl-cascade) _- My fork with the night owl theme_   
 **Wallpapers**: [Sky](./wallpapers/sky.jpeg)  
 
- 
-
-
-
+[![preview](preview.png)](https://github.com/mdwitr0/night-owl-rice/blob/main/preview.png)
