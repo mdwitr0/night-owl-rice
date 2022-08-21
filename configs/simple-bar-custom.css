@@ -1,0 +1,22 @@
+:root {
+    --base-space-size: 10px
+}
+
+.simple-bar--floating {
+    top: var(--base-space-size);
+  }
+  .simple-bar--no-bar-background {
+    padding: 0;
+  }
+  .simple-bar--on-bottom {
+    top: unset;
+    bottom: 0;
+  }
+  .simple-bar--floating.simple-bar--on-bottom {
+    bottom: var(--base-space-size);
+  }
+  .simple-bar--floating {
+    left: calc(var(--base-space-size) * 2);
+    width: calc(100% - calc(var(--base-space-size) * 4));
+    border-radius: var(--bar-radius);
+  }
