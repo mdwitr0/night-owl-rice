@@ -4,7 +4,7 @@
 **Color Theme**: NightOwl  
 **WM**: [Yabai](https://github.com/koekeishiya/yabai)  
 **Widgets**: [übersitch](https://tracesof.net/uebersicht/)  
-**Bar**: [Simple Bar](https://github.com/Jean-Tinland/simple-bar)
+**Bar**: [Simple Bar](https://github.com/Jean-Tinland/simple-bar)  
 **Terminal**: [iTerm 2](https://iterm2.com/)  
 **Editor**: [WebStorm IDE](https://www.jetbrains.com/webstorm/)  
 **Editor theme**: [NightOwl](https://github.com/xdrop/night-owl-jetbrains)  
